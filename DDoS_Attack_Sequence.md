@@ -27,6 +27,7 @@ sequenceDiagram
     Firewall-->>BotNet: Blocks suspicious IP addresses
     BotNet-->>Attacker: Reports blocked connections
     Firewall->>WebServer: Mitigates the attack
+    
 ```
 
   ## Explanation of the Sequence Diagram
