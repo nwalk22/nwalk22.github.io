@@ -27,9 +27,10 @@ sequenceDiagram
     Firewall-->>BotNet: Blocks suspicious IP addresses
     BotNet-->>Attacker: Reports blocked connections
     Firewall->>WebServer: Mitigates the attack
+
 ```
 
- ## Explanation of the Sequence Diagram
+## Explanation of the Sequence Diagram
 
 1. **Attacker Instructs BotNet**: The attacker controls a network of compromised systems (BotNet) and instructs them to start sending large volumes of traffic to the target web server.
    
