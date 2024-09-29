@@ -1,12 +1,18 @@
 # Lab 6: Mermaid Diagrams
+
 ## DDoS Attack Sequence
- This will be a diagram to show how DDoS Attack is done. In the section below it will also give a short reveiew of the concept of a DDoS Attack.
- ### DDoS Attack Concepts
-  * **Attacker**: Launches the attack by controlling a network of compromised devices, or BotNet.
-  * **BotNet (Bots)**: Compromised systems that send large volumes of requests to overwhelm the web server.
-  * **Web Server**: The target of the attack, which becomes overwhelmed by the traffic.
-  * **Firewall/Defence Systems**: Detect and mitigate the attack by blocking malicious traffic.
-  # DDoS Attack Sequence Diagram
+
+This will be a diagram to show how a DDoS Attack is done. In the section below, it will also give a short review of the concept of a DDoS Attack.
+
+### DDoS Attack Concepts
+
+* **Attacker**: Launches the attack by controlling a network of compromised devices, or BotNet.
+* **BotNet (Bots)**: Compromised systems that send large volumes of requests to overwhelm the web server.
+* **Web Server**: The target of the attack, which becomes overwhelmed by the traffic.
+* **Firewall/Defense Systems**: Detect and mitigate the attack by blocking malicious traffic.
+
+## DDoS Attack Sequence Diagram
+
 ```mermaid
 sequenceDiagram
     participant Attacker
@@ -21,8 +27,7 @@ sequenceDiagram
     Firewall-->>BotNet: Blocks suspicious IP addresses
     BotNet-->>Attacker: Reports blocked connections
     Firewall->>WebServer: Mitigates the attack
-  
-  ```
+```
   ## Explanation of the Sequence Diagram
 
 1. **Attacker Instructs BotNet**: The attacker controls a network of compromised systems (BotNet) and instructs them to start sending large volumes of traffic to the target web server.
