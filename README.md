@@ -12,3 +12,4 @@
 
 ^ 4.	A brief description of the steps you took to clone the repository onto your local machine
 > The steps I took to clone my repository to my PC is by following the steps that were provided via the instruction document and the video that was also provided.
+> 
