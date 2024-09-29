@@ -22,6 +22,6 @@
  * Star Wars
  * Table Top Games
 ## Websites I Recommend
- 1. [DnD](www.dndbeyond.com) - When playing DnD with friends I like using this website becasue it is easy to get to my character sheets and source books while playing.
- 2. [StarWars](www.atomicmassgames.com/legion-gallery/) - When it comes to anythings for Star Wars table top I use this website to find all the minis and structures needed for a good table top game of Star Wars Legion. 
- 3. [ChatGPT](www.chatgpt.com) - I use this for everything even school. As I go through lessons and course material I take my notes and other material and put them into chat gpt to have it make me detailed study guides and pratice tests in order to study material covered in each lesson
+ 1. [DnD](https://www.dndbeyond.com) - When playing DnD with friends I like using this website becasue it is easy to get to my character sheets and source books while playing.
+ 2. [StarWars](https://www.atomicmassgames.com/legion-gallery/) - When it comes to anythings for Star Wars table top I use this website to find all the minis and structures needed for a good table top game of Star Wars Legion. 
+ 3. [ChatGPT](https://www.chatgpt.com) - I use this for everything even school. As I go through lessons and course material I take my notes and other material and put them into chat gpt to have it make me detailed study guides and pratice tests in order to study material covered in each lesson
