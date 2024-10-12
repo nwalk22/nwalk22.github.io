@@ -1,4 +1,4 @@
-> nwalker22.github.io
+> nwalk22.github.io
 
 ^ 1.	Your name and email address
 > Nich Walker
